@@ -5,7 +5,7 @@
 <li>📫 How to reach me **anandabinash25@gmail.com**</li>
 <li>⚡ Fun fact I think You're Interesting!!</li>
 </ul>
-<img src ="../giphy.gif">
+<img src="https://64.media.tumblr.com/08600f6c421e82c97a56b9b65fc49ff7/bc5bdd9544b641fd-4b/s540x810/4e64fb955c9c6ccec3686f4c6dae4efeb93e768a.gif" alt="Girl in a jacket" width="500" height="600">
 
 <!-- Socials--------------------->
 <h3 align="left">Connect with me:</h3>
