@@ -1,6 +1,6 @@
 <div><h1>Hallo👋, mein Name ist Abinash</h1>
 <h2>The web is my playground, coding is my game -I'm a Web developers, who plays the web game with <strong>FrameWorks</strong></h2></div>
-<img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:350px;" >
+<img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
 <ul >
 <li>🌱 I’m currently learning SASS, React.js and Electron.js</li>
