@@ -1,6 +1,6 @@
 
-<h1 align="left" >Hallo👋, mein Name ist Abinash</h1>
-<h2 align="left">The web is my playground, coding is my game -I'm a Web developers, who plays the web game with <strong>FrameWorks</strong></h2>
+<h1 align="center" >Hallo👋, mein Name ist Abinash</h1>
+<h2 align="center">The web is my playground, coding is my game -I'm a Web developers, who plays the web game with <strong>FrameWorks</strong></h2>
 <img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
 <ul >
@@ -96,4 +96,4 @@
 <h2 >Frameworks I use...</h2>
        <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:300px; height:200px"> 
        <img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:300px; height:200px"  >
-        <img src="https://developer.okta.com/assets-jekyll/blog/react-sass/sass-react-fa644d1094e108fd0fa40e95db30309192f80753927e7767d324ccfc58f8351e.png " style="width:300px; height:200px" >
+    
