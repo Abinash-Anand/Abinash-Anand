@@ -1,5 +1,6 @@
-<div><h1>Hallo👋, mein Name ist Abinash</h1>
-<h2>The web is my playground, coding is my game -I'm a Web developers, who plays the web game with <strong>FrameWorks</strong></h2></div>
+
+<h1 align="center" >Hallo👋, mein Name ist Abinash</h1>
+<h2 align="center">The web is my playground, coding is my game -I'm a Web developers, who plays the web game with <strong>FrameWorks</strong></h2>
 <img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
 <ul >
@@ -86,13 +87,13 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/144/null/node-js.png"
             alt="nodejs" width="50" height="60" /> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://icons8.com/icon/122637/react" title="react"
-            alt="react" width="50" height="60" /> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://www.flaticon.com/free-icons/sass" title="sass" alt="sass"
-            width="50" height="60" /> </a>
         <a href="https://www.adobe.com/products/xd.html" target="_blank"
         rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/adobe-xd.png" alt="xd" width="50"
             height="60" /> </a>
 </p>
+        
+
+<h2 >Frameworks I use...</h2>
+       <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:300px; height:200px"> 
+       <img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:300px; height:200px"  >
+        <img src="https://developer.okta.com/assets-jekyll/blog/react-sass/sass-react-fa644d1094e108fd0fa40e95db30309192f80753927e7767d324ccfc58f8351e.png " style="width:300px; height:200px" >
