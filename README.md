@@ -94,7 +94,7 @@
         
 
 <h2 >Frameworks I use...</h2>
-       <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:400px; height:300px"> 
-       <img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:400px; height:300px"  >
+       <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:370px; height:250px"> 
+       <img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:370px; height:250px"  >
         
 ![Abinash-Anand's Stats](https://github-readme-stats.vercel.app/api?username=Abinash-Anand&theme=radical&show_icons=true&hide_border=true&count_private=false)![Abinash-Anand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinash-Anand&theme=radical&hide_border=true)![Abinash-Anand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&theme=radical&show_icons=true&hide_border=true&layout=compact)
