@@ -11,23 +11,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/abinashanand" target="blank"><img align="center"
-            src="https://img.icons8.com/windows/32/null/dev.png"
-            alt="abinashanand" height="40" width="50" /></a>
+            src="https://img.icons8.com/windows/144/null/dev.png"
+            alt="abinashanand" height="60" width="60" /></a>
     <a href="https://twitter.com/home?lang=en" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/48/null/twitter.png"
-            alt="abinashanand25" height="30" width="40" /></a>
+            src="https://img.icons8.com/fluency/144/null/twitter.png"
+            alt="abinashanand25" height="60" width="60" /></a>
     <a href="https://www.linkedin.com/in/abinash-anand-064598203/" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/48/null/linkedin.png"
-            alt="abinash anand" height="30" width="40" /></a>
+            src="https://img.icons8.com/fluency/144/null/linkedin.png"
+            alt="abinash anand" height="60" width="60" /></a>
     <a href="https://instagram.com/abinash_anand_" target="blank"><img align="center"
-            src="https://img.icons8.com/color/48/null/instagram-new--v1.png"
-            alt="abinash_anand_" height="30" width="40" /></a>
+            src="https://img.icons8.com/color/144/null/instagram-new--v1.png"
+            alt="abinash_anand_" height="60" width="60" /></a>
     <a href="https://www.leetcode.com/abinash_anand_" target="blank"><img align="center"
-            src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
-            alt="abinash_anand_" height="30" width="40" /></a>
+            src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/144/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
+            alt="abinash_anand_" height="60" width="60" /></a>
     <a href="https://discord.gg/#1901" target="blank"><img align="center"
-            src="https://img.icons8.com/color/48/null/discord--v2.png"
-            alt="#1901" height="30" width="40" /></a>
+            src="https://img.icons8.com/color/144/null/discord--v2.png"
+            alt="#1901" height="60" width="60" /></a>
 </p>
 
 <!-----TECH STACK---------------->
