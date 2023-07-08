@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hallo👋, mein Name ist Abinash</h1>
-<h2 align="center">Swarm grenades? Check. Killer robots? Check- oh, hah, don't worry, they're only killer when I say so.</h2>
+<h2 align="center">These imposters actually think they can beat my tech? Ah, let's test that theory.</h2>
 <img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
 <ul >
