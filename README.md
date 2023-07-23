@@ -3,9 +3,22 @@
 <h2 align="center">These imposters actually think they can beat my tech? Ah, let's test that theory.</h2>
 <img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
+    <table>
+  <tr>
+    <h2> My learning Bucket List 🧺 </h2>
+      <tr>
+    <td><h3>SASS </h3><img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:60px; height:60px; border-radius: 50%"  >   
+</td>
+    <td><h3>React.js </h3>  <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:60px; height:60px"></td>
+  <td><h3>Docker</h3> <a
+        href="https://docker.com" target="_blank" rel="noreferrer"> <img
+            src="https://img.icons8.com/color/144/null/docker.png" alt="docker" width="50" height="60" /> </a></td>
+            <td><h3>Electron.js</h3> <img src="https://betanews.com/wp-content/uploads/2018/05/electron.jpg" style="width:60px; height:60px; border-radius:10px"> </td>
+  </tr>
+  </tr>
+    </table>
 <ul >
-<li>🌱 I’m currently learning SASS, React.js and Electron.js</li>
-<li>📫 How to reach me **anandabinash25@gmail.com**</li>
+<li>📫 How to reach me <em>anandabinash25@gmail.com </em></li>
 <li>⚡ Fun fact I think You're Interesting!!</li>
 </ul>
 </span>
@@ -62,10 +75,7 @@
         <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/figma--v1.png" alt="figma" width="50"
             height="60" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://img.icons8.com/color/144/null/git.png" alt="git" width="50" height="60" /> </a> 
-        <a
-        href="https://docker.com" target="_blank" rel="noreferrer"> <img
-            src="https://img.icons8.com/color/144/null/docker.png" alt="docker" width="50" height="60" /> </a>
+            src="https://img.icons8.com/color/144/null/git.png" alt="git" width="50" height="60" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/html-5--v1.png"
             alt="html5" width="50" height="60" /> </a>
@@ -91,10 +101,5 @@
         rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/adobe-xd.png" alt="xd" width="50"
             height="60" /> </a>
 </p>
-        
-
-<h2 >Frameworks I use...</h2>
-       <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" style="width:370px; height:250px"> 
-       <img src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" style="width:370px; height:250px"  >
         
 ![Abinash-Anand's Stats](https://github-readme-stats.vercel.app/api?username=Abinash-Anand&theme=radical&show_icons=true&hide_border=true&count_private=false)![Abinash-Anand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinash-Anand&theme=radical&hide_border=true)![Abinash-Anand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&theme=radical&show_icons=true&hide_border=true&layout=compact)
