@@ -57,50 +57,50 @@
     <tr><h3 align="left">Languages and Tools:</h3></tr>
     <td> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img 
             src="https://img.icons8.com/color/144/null/bootstrap.png"
-            alt="bootstrap" width="50" height="60" /> </a> </td>
+            alt="bootstrap" width="60" height="60" /> </a> </td>
      <td> <a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/c-programming.png"
-            alt="c" width="50" height="60" /> </a></td>
+            alt="c" width="60" height="60" /> </a></td>
      <td><a href="https://www.w3schools.com/cpp/" target="_blank"
         rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/c-plus-plus-logo.png"
-            alt="cplusplus" width="50" height="60" /> </a> </td>
+            alt="cplusplus" width="60" height="60" /> </a> </td>
      <td>  <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
-            src="https://img.icons8.com/color/144/null/css3.png""
-            alt="css3" width="50" height="60" /> </a></td>
+            src="https://img.icons8.com/color/144/null/css3.png"
+            alt="css3" width="60" height="60" /> </a></td>
      <td> <a href="https://expressjs.com" target="_blank"
         rel="noreferrer"> <img
             src="https://img.icons8.com/ios/150/null/express-js.png"
-            alt="express" width="50" height="60" /> </a> </td>
+            alt="express" width="60" height="60" /> </a> </td>
      <td> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/figma--v1.png" alt="figma" width="50"
+        rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/figma--v1.png" alt="figma" width="60"
             height="60" /> </a> </td>
     <td> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://img.icons8.com/color/144/null/git.png" alt="git" width="50" height="60" /> </a></td>
+            src="https://img.icons8.com/color/144/null/git.png" alt="git" width="60" height="60" /> </a></td>
      <td>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/html-5--v1.png"
-            alt="html5" width="50" height="60" /> </a></td>
+            alt="html5" width="60" height="60" /> </a></td>
      <td>   <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/144/null/java-coffee-cup-logo--v1.png" alt="java"
-            width="50" height="60" /> </a></td>
+            width="60" height="60" /> </a></td>
      <td>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/javascript.png"
-            alt="javascript" width="50" height="60" /> </a> </td>
+            alt="javascript" width="60" height="60" /> </a> </td>
      <td>  <a href="https://www.mongodb.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/mongodb.png"
-            alt="mongodb" width="50" height="60" /> </a> </td>
+            alt="mongodb" width="60" height="60" /> </a> </td>
      <td>   <a href="https://www.mysql.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://img.icons8.com/color/144/null/my-sql.png"
-            alt="mysql" width="50" height="60" /> </a></td>
+            alt="mysql" width="60" height="60" /> </a></td>
      <td> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/144/null/node-js.png"
-            alt="nodejs" width="50" height="60" /> </a></td>
+            alt="nodejs" width="60" height="60" /> </a></td>
      <td>  <a href="https://www.adobe.com/products/xd.html" target="_blank"
-        rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/adobe-xd.png" alt="xd" width="50"
+        rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/adobe-xd.png" alt="xd" width="60"
             height="60" /> </a></td>
 </table>
 
