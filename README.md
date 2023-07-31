@@ -1,4 +1,4 @@
-<h1 align="center" >Hallo👋, ich heiße Abinash</h1>
+<h1 align="center" >Hallo👋 ich heiße Abinash</h1>
 <h2 align="center">These imposters actually think they can beat my tech? Ah, let's test that theory.</h2>
 <img src = "https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif" style="width:1000px; height:300px;" >
 <span>
