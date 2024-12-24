@@ -109,7 +109,7 @@
             alt="nodejs" width="65" height="60" /> </a>
       <a href="https://www.adobe.com/products/xd.html" target="_blank"
         rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/adobe-xd.png" alt="xd" width="65"
-            height="60" /> </a>
+            height="60" /> </a> 
 
 <p align="left">
    
