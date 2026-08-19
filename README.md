@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=D7FF2F&center=true&vCenter=true&width=900&lines=BUILDING+THINGS+THAT+SHOULDN'T+EXIST.;AI+%C3%97+SOFTWARE+ENGINEERING.;TURNING+IDEAS+INTO+SYSTEMS.;BREAK+IT.+UNDERSTAND+IT.+SHIP+IT."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=D7FF2F&center=true&vCenter=true&width=900&lines=SOFTWARE+ENGINEER+%7C+SYSTEM+BUILDER.;FRONTEND+%C3%97+BACKEND+%C3%97+AI.;FROM+INTERFACES+TO+ARCHITECTURE.;BUILDING+SYSTEMS%2C+NOT+JUST+FEATURES."
     alt="Typing animation"
   />
 </p>
@@ -34,7 +34,7 @@
 
 ---
 
-<h2>🟡 KILLJOY PROTOCOL // SYSTEM STATUS</h2>
+<h2>SYSTEM STATUS</h2>
 
 <table>
 <tr>
@@ -48,7 +48,7 @@
 │ BASE        STUTTGART, DE          │
 │ STATUS      ● ONLINE               │
 │ MODE        BUILD                  │
-│ CURRENT     AI × SYSTEMS × WEB    │
+│ CURRENT     SOFTWARE × AI          │
 ╰────────────────────────────────────╯
 ```
 
@@ -58,11 +58,13 @@
 
 ### `MISSION DIRECTIVE`
 
-I like building software where the interesting problem isn't only **writing the code**, but figuring out **how the whole system should work**.
+I build software from the **interface down to the architecture and systems that make it work.**
 
-Frontend. Backend. AI. Infrastructure.
+My foundation is in frontend and modern web development, with hands-on experience across backend development, APIs, databases, CI/CD and containerized applications.
 
-If it can be built, broken, measured and rebuilt better, I'm interested.
+I'm increasingly interested in the layer beyond individual features:
+
+**How should the whole system be designed?**
 
 </td>
 
@@ -95,9 +97,9 @@ TYPESCRIPT
 UI ARCHITECTURE
 ```
 
-Interfaces are only the surface.
+My engineering foundation.
 
-I'm interested in the engineering underneath them.
+I care about building interfaces that are not only usable, but supported by clean architecture and maintainable code.
 
 </td>
 
@@ -112,9 +114,7 @@ RAG
 STRUCTURED OUTPUTS
 ```
 
-The goal isn't another chatbot.
-
-The goal is useful AI inside real software.
+I'm exploring how models, data, APIs, tools and agents can become reliable parts of real software instead of another chatbot demo.
 
 </td>
 
@@ -129,7 +129,7 @@ DOCKER
 REST APIs
 ```
 
-Because eventually the application has to survive outside localhost.
+I'm going deeper into software architecture, distributed systems and the engineering decisions that determine how applications behave beyond localhost.
 
 </td>
 
@@ -146,7 +146,7 @@ Because eventually the application has to survive outside localhost.
 
 <p align="center">
   <sub>
-    <i>Just checking what is happening inside the workshop...</i>
+    <i>Checking whether the architecture survived the latest experiment...</i>
   </sub>
 </p>
 
@@ -188,7 +188,7 @@ Because eventually the application has to survive outside localhost.
 <p align="center">
   <sub>
     <i>
-      Me after discovering there is apparently one more framework I should learn.
+      Me discovering that "just one more technology" has somehow become an entire learning roadmap.
     </i>
   </sub>
 </p>
@@ -203,25 +203,21 @@ Because eventually the application has to survive outside localhost.
 
 <td width="50%" valign="top">
 
-### `01` BUILD
+### `01` LEARN
 
-I learn fastest when I'm building something real.
+I don't want to just know how to use a technology.
 
-Tutorials explain.
-
-Projects expose what you actually don't understand.
+I want to understand **why it works, where it fits, and what trade-offs come with it.**
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` BREAK
+### `02` BUILD
 
-If something doesn't make sense:
+The fastest way I learn is by building something real.
 
-**break it.**
-
-Then find out why.
+Projects expose the gaps that tutorials politely hide.
 
 </td>
 
@@ -231,17 +227,21 @@ Then find out why.
 
 <td width="50%" valign="top">
 
-### `03` DECOMPOSE
+### `03` QUESTION
 
-Large problems become manageable when you can turn them into smaller systems with clear boundaries.
+A feature can work and still be badly designed.
+
+I care about asking what happens when the system grows, fails, changes, or has to be maintained by someone else.
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` SHIP
+### `04` SHARE
 
-A beautifully engineered application sitting on localhost is still sitting on localhost.
+I believe in learning in public.
+
+Build it. Break it. Understand it. Share what happened and why the decisions mattered.
 
 </td>
 
@@ -263,7 +263,7 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 <p align="center">
   <sub>
-    <b>MODE SWITCH: LOCKED IN</b>
+    <b>MODE SWITCH: ARCHITECTURE BRAIN ONLINE</b>
   </sub>
 </p>
 
@@ -286,15 +286,15 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 ```text
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
-│  SOFTWARE ENGINEERING     █████████░░   ACTIVE           │
+│  SOFTWARE ENGINEERING     █████████░░   DEEPENING        │
 │                                                          │
 │  FRONTEND ARCHITECTURE    ████████░░░   ACTIVE           │
 │                                                          │
-│  AI ENGINEERING           ███████░░░░   ACTIVE           │
+│  AI ENGINEERING           ███████░░░░   EXPLORING        │
 │                                                          │
-│  SYSTEM DESIGN            ██████░░░░░   LOADING          │
+│  SOFTWARE ARCHITECTURE    ██████░░░░░   DEEPENING        │
 │                                                          │
-│  CLOUD / INFRASTRUCTURE   █████░░░░░░   LOADING          │
+│  DISTRIBUTED SYSTEMS      █████░░░░░░   LOADING          │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
@@ -312,14 +312,12 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 <p align="center">
   <sub>
     <i>
-      When the code finally works and nobody knows why.
+      When the trade-off finally makes sense.
     </i>
   </sub>
 </p>
 
 ---
-
-<p align="center">
 
 <h2>🛠️ WORKSHOP PROTOCOL</h2>
 
@@ -327,18 +325,16 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 ```text
 ┌─────────┐      ┌─────────┐      ┌─────────┐      ┌─────────────┐      ┌─────────┐
-│  BUILD  │ ───▶ │  BREAK  │ ───▶ │  DEBUG  │ ───▶ │  UNDERSTAND │ ───▶ │  SHIP   │
+│  LEARN  │ ───▶ │  BUILD  │ ───▶ │  TEST   │ ───▶ │  UNDERSTAND │ ───▶ │  SHARE  │
 └─────────┘      └─────────┘      └─────────┘      └─────────────┘      └─────────┘
- ↑                                                                          │
- |                                                                          │
- └──────────────────────────────────────────────────────────────────────────┘
+     ▲                                                                          │
+     │                                                                          │
+     └──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </p>
 
-> The fun part is usually somewhere between "this should work" and "why the hell does this work?"
-
-
+> My approach is simple: learn → build → understand → test the trade-offs → share.
 
 <p align="center">
 
@@ -458,29 +454,24 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 <p align="center">
 
-
 </p>
-
-<h2 align="center">
-  🟡 KILLJOY PROTOCOL // STILL BUILDING
-</h2>
 
 <p align="center">
 
-<code>BUILD</code>
-&nbsp;·&nbsp;
-<code>BREAK</code>
-&nbsp;·&nbsp;
 <code>LEARN</code>
 &nbsp;·&nbsp;
-<code>SHIP</code>
+<code>BUILD</code>
+&nbsp;·&nbsp;
+<code>UNDERSTAND</code>
+&nbsp;·&nbsp;
+<code>SHARE</code>
 
 </p>
 
 <p align="center">
 
 <sub>
-System status: ONLINE · Workshop status: NEVER FINISHED
+Software Engineer · Stuttgart, Germany · Building from interfaces to systems
 </sub>
 
 </p>
