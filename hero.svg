@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#090b0a"/><stop offset=".55" stop-color="#151914"/><stop offset="1" stop-color="#0b0d0c"/></linearGradient>
+  <linearGradient id="lime" x1="0" x2="1"><stop stop-color="#d7ff2f"/><stop offset="1" stop-color="#83b900"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#d7ff2f" opacity=".07"/></pattern>
+</defs>
+<rect width="1400" height="430" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1398" height="428" rx="23" fill="url(#grid)" stroke="#d7ff2f" stroke-opacity=".35"/>
+<path d="M0 65H1400M0 365H1400" stroke="#d7ff2f" opacity=".18"/>
+<path d="M92 0V430M1308 0V430" stroke="#d7ff2f" opacity=".12"/>
+
+<!-- HUD brackets -->
+<path d="M55 110V55H110M1290 55H1345V110M55 320V375H110M1290 375H1345V320"
+      fill="none" stroke="#d7ff2f" stroke-width="3" filter="url(#glow)"/>
+
+<!-- stylized Killjoy-inspired figure -->
+<g transform="translate(930,55)">
+  <circle cx="180" cy="120" r="78" fill="#d7ff2f" opacity=".08"/>
+  <circle cx="180" cy="120" r="82" fill="none" stroke="#d7ff2f" stroke-width="2" opacity=".55"/>
+  <circle cx="180" cy="120" r="94" fill="none" stroke="#d7ff2f" stroke-dasharray="7 12" opacity=".35">
+    <animateTransform attributeName="transform" type="rotate" from="0 180 120" to="360 180 120" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <!-- beanie -->
+  <path d="M112 94Q118 28 180 25Q242 28 248 94Z" fill="#e8c12a"/>
+  <path d="M104 87Q180 105 256 87L248 112Q180 130 112 112Z" fill="#e8c12a"/>
+  <path d="M140 42Q180 24 220 42" fill="none" stroke="#111" stroke-width="6"/>
+  <!-- hair -->
+  <path d="M119 112Q110 160 140 174L156 140L180 160L203 140L220 174Q250 158 241 112Z" fill="#171817"/>
+  <!-- face -->
+  <path d="M132 103Q180 76 228 103L218 161Q180 194 142 161Z" fill="#e8a86f"/>
+  <!-- glasses -->
+  <rect x="137" y="110" width="42" height="29" rx="7" fill="#151716" stroke="#d7ff2f" stroke-width="2"/>
+  <rect x="181" y="110" width="42" height="29" rx="7" fill="#151716" stroke="#d7ff2f" stroke-width="2"/>
+  <path d="M179 120H181" stroke="#d7ff2f" stroke-width="3"/>
+  <!-- body -->
+  <path d="M92 250Q180 198 268 250L292 385H68Z" fill="#2a2d29" stroke="#d7ff2f" stroke-width="2"/>
+  <path d="M130 235L180 275L230 235" fill="none" stroke="#e8c12a" stroke-width="15"/>
+  <path d="M112 310H248" stroke="#d7ff2f" stroke-width="3" opacity=".6"/>
+  <rect x="142" y="328" width="76" height="25" rx="5" fill="#111" stroke="#d7ff2f"/>
+  <circle cx="155" cy="340" r="4" fill="#d7ff2f"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- left text -->
+<g font-family="monospace">
+  <text x="80" y="135" fill="#8d968e" font-size="16" letter-spacing="5">VALORANT // ENGINEERING DIVISION</text>
+  <text x="80" y="205" fill="#f2f5ef" font-size="58" font-weight="700">ABINASH.EXE</text>
+  <text x="80" y="245" fill="#d7ff2f" font-size="20" letter-spacing="3">KILLJOY PROTOCOL // SYSTEM ONLINE</text>
+  <text x="80" y="295" fill="#aeb6ad" font-size="15">SOFTWARE ENGINEER  /  BUILDER  /  AI SYSTEMS</text>
+  <text x="80" y="333" fill="#aeb6ad" font-size="13">STUTTGART, DE   •   STATUS: BUILDING   •   THREAT LEVEL: DEPLOYED</text>
+</g>
+
+<!-- scanner -->
+<rect x="80" y="345" width="500" height="2" fill="#d7ff2f" opacity=".7">
+  <animate attributeName="x" values="80;560;80" dur="3s" repeatCount="indefinite"/>
+</rect>
+<circle cx="1235" cy="350" r="7" fill="#d7ff2f" filter="url(#glow)">
+  <animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+<text x="1255" y="355" fill="#d7ff2f" font-family="monospace" font-size="12">ONLINE</text>
+</svg>

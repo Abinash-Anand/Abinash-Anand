@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 180">
+<defs>
+ <linearGradient id="g"><stop stop-color="#d7ff2f"/><stop offset=".5" stop-color="#e8c12a"/><stop offset="1" stop-color="#7aa300"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="180" fill="#080a08"/>
+<g opacity=".18" stroke="#d7ff2f">
+ <path d="M0 30H1400M0 60H1400M0 90H1400M0 120H1400M0 150H1400"/>
+</g>
+<path d="M0 95 C130 20 230 160 350 95 S580 30 700 95 S930 160 1050 95 S1270 25 1400 95"
+ fill="none" stroke="url(#g)" stroke-width="3" filter="url(#glow)">
+ <animate attributeName="d" dur="6s" repeatCount="indefinite"
+ values="M0 95 C130 20 230 160 350 95 S580 30 700 95 S930 160 1050 95 S1270 25 1400 95;
+ M0 95 C130 160 230 20 350 95 S580 160 700 95 S930 30 1050 95 S1270 160 1400 95;
+ M0 95 C130 20 230 160 350 95 S580 30 700 95 S930 160 1050 95 S1270 25 1400 95"/>
+</path>
+<g fill="#d7ff2f">
+ <circle cx="90" cy="85" r="2"><animate attributeName="cy" values="85;40;85" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="280" cy="110" r="2"><animate attributeName="cy" values="110;145;110" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="510" cy="78" r="2"><animate attributeName="cy" values="78;125;78" dur="2.2s" repeatCount="indefinite"/></circle>
+ <circle cx="760" cy="115" r="2"><animate attributeName="cy" values="115;55;115" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="980" cy="82" r="2"><animate attributeName="cy" values="82;135;82" dur="2.3s" repeatCount="indefinite"/></circle>
+ <circle cx="1220" cy="110" r="2"><animate attributeName="cy" values="110;45;110" dur="2.7s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
