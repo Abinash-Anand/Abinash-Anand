@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/assets/hero.svg"
-    width="100%"
-    alt="Abinash Killjoy themed hero"
-  />
-</p>
+<h1> Hallo, ich heiße Abinash Anand</h1>
 
 <p align="center">
   <img
@@ -67,7 +61,7 @@ If it can be built, broken, measured and rebuilt better, I'm interested.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/assets/wave.svg"
+    src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
     width="100%"
     alt="Animated telemetry wave"
   />
@@ -216,7 +210,7 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/assets/telemetry.svg"
+src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/telemetry.svg"
 width="75%"
 alt="Killjoy workshop telemetry"
 />
@@ -286,7 +280,7 @@ alt="Killjoy workshop telemetry"
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/assets/wave.svg"
+src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
 width="100%"
 alt="Animated telemetry wave"
 />
@@ -366,7 +360,7 @@ alt="GitHub activity graph"
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/assets/wave.svg"
+src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
 width="100%"
 alt="Telemetry"
 />
