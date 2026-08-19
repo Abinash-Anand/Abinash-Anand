@@ -1,6 +1,14 @@
 <h1 align="center">Hallo, ich heiße Abinash Anand 👋</h1>
 
+<p align="center">
 
+<img
+  src="./sovereign-mutants-and-mastermind.gif"
+  width="100%"
+  alt="Cinematic system transition"
+/>
+
+</p>
 
 <p align="center">
   <img
@@ -349,15 +357,7 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 ---
 
-<p align="center">
 
-<img
-  src="./sovereign-mutants-and-mastermind.gif"
-  width="100%"
-  alt="Cinematic system transition"
-/>
-
-</p>
 
 <p align="center">
   <sub>
