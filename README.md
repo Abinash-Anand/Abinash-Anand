@@ -2,11 +2,11 @@
 
 <p align="center">
 
-<img
+<!-- <img
   src="./sovereign-mutants-and-mastermind.gif"
   width="100%"
   alt="Cinematic system transition"
-/>
+/> -->
 
 </p>
 
@@ -319,53 +319,26 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 ---
 
+<p align="center">
+
 <h2>🛠️ WORKSHOP PROTOCOL</h2>
 
 <p align="center">
 
 ```text
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  BREAK  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  DEBUG  │
-       └────┬────┘
-            │
-            ▼
-       ┌───────────┐
-       │ UNDERSTAND│
-       └─────┬─────┘
-             │
-             ▼
-       ┌─────────┐
-       │  SHIP   │
-       └────┬────┘
-            │
-            └───────────────↻
+┌─────────┐      ┌─────────┐      ┌─────────┐      ┌─────────────┐      ┌─────────┐
+│  BUILD  │ ───▶ │  BREAK  │ ───▶ │  DEBUG  │ ───▶ │  UNDERSTAND │ ───▶ │  SHIP   │
+└─────────┘      └─────────┘      └─────────┘      └─────────────┘      └─────────┘
+ ↑                                                                          │
+ |                                                                          │
+ └──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </p>
 
 > The fun part is usually somewhere between "this should work" and "why the hell does this work?"
 
----
 
-
-
-<p align="center">
-  <sub>
-    <i>SYSTEM TRANSITION // LOADING NEXT MODULE...</i>
-  </sub>
-</p>
-
----
 
 <p align="center">
 
