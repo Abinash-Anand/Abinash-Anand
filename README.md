@@ -485,11 +485,6 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 
 <p align="center">
 
-<img
-  src="./scanner.svg"
-  width="100%"
-  alt="System scanner"
-/>
 
 </p>
 
