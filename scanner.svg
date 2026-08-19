@@ -1,0 +1,81 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="g">
+    <stop offset="0%" stop-color="#00f0ff"></stop>
+    <stop offset="50%" stop-color="#7c3aed"></stop>
+    <stop offset="100%" stop-color="#ff00cc"></stop>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+    <feMerge>
+      <feMergeNode in="blur"></feMergeNode>
+      <feMergeNode in="SourceGraphic"></feMergeNode>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<rect width="1200" height="220" fill="#050509"></rect>
+
+<!-- grid -->
+
+<g opacity=".15" stroke="#00f0ff">
+
+  <path d="M0 40 H1200"></path>
+  <path d="M0 80 H1200"></path>
+  <path d="M0 120 H1200"></path>
+  <path d="M0 160 H1200"></path>
+  <path d="M100 0 V220"></path>
+  <path d="M200 0 V220"></path>
+  <path d="M300 0 V220"></path>
+  <path d="M400 0 V220"></path>
+  <path d="M500 0 V220"></path>
+  <path d="M600 0 V220"></path>
+  <path d="M700 0 V220"></path>
+  <path d="M800 0 V220"></path>
+  <path d="M900 0 V220"></path>
+  <path d="M1000 0 V220"></path>
+  <path d="M1100 0 V220"></path>
+
+</g>
+
+<!-- scan line -->
+
+<rect x="0" y="0" width="1200" height="2" fill="url(#g)" opacity=".7">
+
+  <animate attributeName="y" from="0" to="220" dur="3s" repeatCount="indefinite"></animate>
+
+</rect>
+
+<!-- title -->
+
+<text x="600" y="92" text-anchor="middle" font-family="monospace" font-size="54" font-weight="bold" fill="white">
+
+  ABINASH.EXE
+
+</text>
+
+<text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="16" fill="#00f0ff">
+
+  SOFTWARE ENGINEER // SYSTEM ONLINE
+
+</text>
+
+<text x="600" y="155" text-anchor="middle" font-family="monospace" font-size="12" fill="#888">
+
+  [ AI ]   [ FULL STACK ]   [ SYSTEMS ]   [ OPEN SOURCE ]
+
+</text>
+
+<!-- pulse -->
+
+<circle cx="1120" cy="40" r="7" fill="#00ff88" filter="url(#glow)">
+
+  <animate attributeName="r" values="5;10;5" dur="1.5s" repeatCount="indefinite"></animate>
+
+</circle>
+
+</svg>
