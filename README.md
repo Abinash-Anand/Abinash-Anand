@@ -1,9 +1,11 @@
-<h1> Hallo, ich heiße Abinash Anand</h1>
+<h1 align="center">Hallo, ich heiße Abinash Anand 👋</h1>
+
+
 
 <p align="center">
   <img
-    src="https://media.tenor.com/UG1Zp_mridwAAAAC/killjoy-killjoy-valorant.gif"
-    width="100%"
+    src="./killjoy-thankyou.gif"
+    width="220"
     alt="Killjoy"
   />
 </p>
@@ -59,13 +61,13 @@ If it can be built, broken, measured and rebuilt better, I'm interested.
 </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
+    src="./wave.svg"
     width="100%"
     alt="Animated telemetry wave"
   />
-</p>
+</p> -->
 
 ---
 
@@ -126,6 +128,20 @@ Because eventually the application has to survive outside localhost.
 </tr>
 </table>
 
+<p align="center">
+  <img
+    src="./tanjiro-demon-slayer.gif"
+    width="180"
+    alt="Tanjiro checking the workshop"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    <i>Just checking what is happening inside the workshop...</i>
+  </sub>
+</p>
+
 ---
 
 <h2>⚔️ AGENT LOADOUT</h2>
@@ -133,8 +149,8 @@ Because eventually the application has to survive outside localhost.
 <p align="center">
 
 <img
-src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,nodejs,nestjs,express,mongodb,mysql,docker,git,github,figma&perline=8"
-alt="Technology stack"
+  src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,nodejs,nestjs,express,mongodb,mysql,docker,git,github,figma&perline=8"
+  alt="Technology stack"
 />
 
 </p>
@@ -142,11 +158,31 @@ alt="Technology stack"
 <p align="center">
 
 <code>LANGUAGES</code>
- ·  <code>FRONTEND</code>
- ·  <code>BACKEND</code>
- ·  <code>DATA</code>
- ·  <code>INFRASTRUCTURE</code>
+&nbsp;·&nbsp;
+<code>FRONTEND</code>
+&nbsp;·&nbsp;
+<code>BACKEND</code>
+&nbsp;·&nbsp;
+<code>DATA</code>
+&nbsp;·&nbsp;
+<code>INFRASTRUCTURE</code>
 
+</p>
+
+<p align="center">
+  <img
+    src="./zenitsu-demon-slayer.gif"
+    width="300"
+    alt="Zenitsu losing his mind"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    <i>
+      Me after discovering there is apparently one more framework I should learn.
+    </i>
+  </sub>
 </p>
 
 ---
@@ -210,10 +246,28 @@ A beautifully engineered application sitting on localhost is still sitting on lo
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/telemetry.svg"
-width="75%"
-alt="Killjoy workshop telemetry"
+  src="./anim.gif"
+  width="320"
+  alt="Locked in"
 />
+
+</p>
+
+<p align="center">
+  <sub>
+    <b>MODE SWITCH: LOCKED IN</b>
+  </sub>
+</p>
+
+---
+
+<p align="center">
+
+<!-- <img
+  src="./telemetry.svg"
+  width="75%"
+  alt="Killjoy workshop telemetry"
+/> -->
 
 </p>
 
@@ -236,6 +290,24 @@ alt="Killjoy workshop telemetry"
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
+
+<p align="center">
+
+<img
+  src="./tokito-yippee.gif"
+  width="190"
+  alt="Tokito celebrating"
+/>
+
+</p>
+
+<p align="center">
+  <sub>
+    <i>
+      When the code finally works and nobody knows why.
+    </i>
+  </sub>
+</p>
 
 ---
 
@@ -280,49 +352,85 @@ alt="Killjoy workshop telemetry"
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
-width="100%"
-alt="Animated telemetry wave"
+  src="./sovereign-mutants-and-mastermind.gif"
+  width="100%"
+  alt="Cinematic system transition"
 />
 
 </p>
+
+<p align="center">
+  <sub>
+    <i>SYSTEM TRANSITION // LOADING NEXT MODULE...</i>
+  </sub>
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="./wave.svg"
+  width="100%"
+  alt="Animated telemetry wave"
+/>
+
+</p>
+
+---
 
 <h2>🌐 OPEN CHANNELS</h2>
 
-<p>
+<p align="center">
+
+<img
+  src="./giphy.gif"
+  width="180"
+  alt="Workshop communication"
+/>
+
+</p>
+
+<p align="center">
+  <sub>
+    <i>Signal detected. Choose your channel.</i>
+  </sub>
+</p>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/abinash-anand-064598203/">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://dev.to/abinashanand">
-<img
-  src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=dev.to&logoColor=white"
-  alt="DEV"
-/>
+  <img
+    src="https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=dev.to&logoColor=white"
+    alt="DEV"
+  />
 </a>
 
 <a href="https://www.leetcode.com/abinash_anand_">
-<img
-  src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"
-  alt="LeetCode"
-/>
+  <img
+    src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"
+    alt="LeetCode"
+  />
 </a>
 
 <a href="https://instagram.com/abinash_anand_">
-<img
-  src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
+  <img
+    src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 </p>
 
-<p>
-📡 <strong>anandabinash25@gmail.com</strong>
+<p align="center">
+  📡 <strong>anandabinash25@gmail.com</strong>
 </p>
 
 ---
@@ -332,15 +440,15 @@ alt="Animated telemetry wave"
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Abinash-Anand&show_icons=true&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&icon_color=E8C12A&text_color=F2F5EF&rank_icon=github"
-height="180"
-alt="GitHub statistics"
+  src="https://github-readme-stats.vercel.app/api?username=Abinash-Anand&show_icons=true&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&icon_color=E8C12A&text_color=F2F5EF&rank_icon=github"
+  height="180"
+  alt="GitHub statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&layout=compact&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&text_color=F2F5EF"
-height="180"
-alt="Top languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&layout=compact&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&text_color=F2F5EF"
+  height="180"
+  alt="Top languages"
 />
 
 </p>
@@ -348,9 +456,9 @@ alt="Top languages"
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash-Anand&bg_color=0B0D0B&color=D7FF2F&line=E8C12A&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub activity graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash-Anand&bg_color=0B0D0B&color=D7FF2F&line=E8C12A&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub activity graph"
 />
 
 </p>
@@ -360,25 +468,44 @@ alt="GitHub activity graph"
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Abinash-Anand/Abinash-Anand/master/wave.svg"
-width="100%"
-alt="Telemetry"
+  src="./gotcha-killjoy.gif"
+  width="500"
+  alt="Killjoy Gotcha"
+/>
+
+</p>
+
+<p align="center">
+  <sub>
+    <b>YOU THOUGHT THE README WAS FINISHED.</b>
+  </sub>
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="./scanner.svg"
+  width="100%"
+  alt="System scanner"
 />
 
 </p>
 
 <h2 align="center">
-
-🟡 KILLJOY PROTOCOL // STILL BUILDING
-
+  🟡 KILLJOY PROTOCOL // STILL BUILDING
 </h2>
 
 <p align="center">
 
 <code>BUILD</code>
- ·  <code>BREAK</code>
- ·  <code>LEARN</code>
- ·  <code>SHIP</code>
+&nbsp;·&nbsp;
+<code>BREAK</code>
+&nbsp;·&nbsp;
+<code>LEARN</code>
+&nbsp;·&nbsp;
+<code>SHIP</code>
 
 </p>
 
