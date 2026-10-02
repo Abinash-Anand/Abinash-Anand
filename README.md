@@ -116,7 +116,7 @@ I write and post about what I build, failures included. If I'm going to learn so
 
 ---
 
-<h2>📡 GITHUB TELEMETRY</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abinash-Anand&show_icons=true&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&icon_color=E8C12A&text_color=F2F5EF&rank_icon=github" height="180" alt="GitHub statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&layout=compact&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&text_color=F2F5EF" height="180" alt="Top languages" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/D7FF2F/Abinash-Anand" width="100%" alt="GitHub activity graph" /> </p>
+<h2>📡 GITHUB TELEMETRY</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abinash-Anand&show_icons=true&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&icon_color=E8C12A&text_color=F2F5EF&rank_icon=github" height="180" alt="GitHub statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-Anand&layout=compact&hide_border=true&bg_color=0B0D0B&title_color=D7FF2F&text_color=F2F5EF" height="180" alt="Top languages" /> </p>
 
 ---
 
